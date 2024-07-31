@@ -37,6 +37,12 @@ Freeze the requirements
 pip freeze > requirements.txt
 ```
 
+## Running Tests
+
+```shell
+pytest
+```
+
 ## Issues
 
 I kept getting an error when trying to run the tests:
